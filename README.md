@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boa vindas ao meu perfil 🖤
 
-<!--
-**sarsaria/sarsaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sara Gouveia 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura]  (https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- utilizo esse espaço para minha organização e compartilhamento os meus projetos 
+
+### você pode entrar em contato comigo 📫
+
+- sara.gouveia@escola.pr.gov.br
+
+- @saranicollegouveia
+
+![](https://media.tenor.com/ZQmLA_ELqyYAAAAC/felca.gif)
